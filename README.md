@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/truongdq)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:truongdq.dev@gmail.com)
 
-### 👨‍💻 Senior Fullstack Engineer & Team Leader
+### 👨‍💻 Fullstack Developer & Team Leader
 Based in **Hanoi, Vietnam**, I specialize in building scalable **Cross-platform Ecosystems** (Web, Mobile, Desktop).
 
 With **5+ years of experience**, I have led engineering teams to deliver high-performance solutions for enterprise clients like **Viettel Group** and **Naver**. My expertise lies in unifying codebases, optimizing system performance, and establishing robust DevOps cultures.
