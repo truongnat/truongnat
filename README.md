@@ -1,13 +1,20 @@
-# Hi there, I'm Dao Quang Truong 👋
+# Hi there, I'm Dao Quang Truong (Peanut) 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-truongdq.com-blue?style=for-the-badge&logo=vercel)](https://truongdq.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/truongdq)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:truongdq.dev@gmail.com)
 
-### 👨‍💻 Fullstack Developer & Team Leader
-Based in **Hanoi, Vietnam**, I specialize in building scalable **Cross-platform Ecosystems** (Web, Mobile, Desktop).
+### 👨‍💻 Fullstack JS/TS Developer → Software Architect
+Based in **Hanoi, Vietnam** · Building scalable **Cross-platform Ecosystems** (Web, Mobile, Desktop)
 
-With **5+ years of experience**, I have led engineering teams to deliver high-performance solutions for enterprise clients like **Viettel Group** and **Naver**. My expertise lies in unifying codebases, optimizing system performance, and establishing robust DevOps cultures.
+With **4+ years of experience**, I have led engineering teams delivering high-performance solutions for enterprise clients like **Viettel Group** and **Naver**. Currently on a **100-day journey to Software Architect** 🎯
+
+---
+
+### 🎯 100 Days to Architect Challenge
+> Day-by-day learning: System Design · Clean Architecture · TypeScript Mastery · Leadership
+
+`#100DaysArchitect` · `#100DaysLeader` · Started March 2026
 
 ---
 
@@ -15,18 +22,21 @@ With **5+ years of experience**, I have led engineering teams to deliver high-pe
 
 | Domain | Stack & Skills |
 | :--- | :--- |
-| **Cross-Platform Core** | [cite_start]![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black) ![Electron](https://img.shields.io/badge/-Electron.js-47848F?logo=electron&logoColor=white) <br> *Expert in unifying Web, Mobile, and Desktop logic.* |
-| **Backend & Infra** | [cite_start]![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) <br> *Designing RESTful APIs & CI/CD Pipelines on Linux VPS.* |
-| **Leadership** | [cite_start]System Architecture • Performance Tuning • Code Review Standards • Technical Mentoring • Agile/Scrum Management |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) |
+| **Architecture** | Clean Architecture · DDD · CQRS · Microservices · System Design |
+| **Leadership** | Team Lead · Code Review · Mentoring · Agile/Scrum |
 
 ---
 
-### 🏆 Key Highlights & Impact
+### 🏆 Key Highlights
 
-* **Engineering Leadership:** Currently leading a cross-functional team of 8 engineers at **Blameo (Viettel Project)**, managing the full product lifecycle and technical recruitment.
-* **System Optimization:** Successfully reduced API latency by **50%** and optimized core features for a high-traffic KPI Tracking Platform.
-* **Cross-Platform R&D:** Engineered a seamless Video Conference solution (Naver Cloud Meeting) running on **Web (Vue.js), Desktop (Electron), and Mobile (React Native)**, solving complex media synchronization challenges.
-* **DevOps Automation:** Built automated CI/CD pipelines from scratch using **Jenkins, GitLab CI, and GitHub Actions** to streamline deployment for both App (OTA/APK) and Web.
+* 🏢 **Engineering Lead** @ Blameo (Viettel Project) — leading 8 engineers, full product lifecycle
+* ⚡ **50% API latency reduction** on high-traffic KPI Tracking Platform
+* 📱 **Cross-platform Video Conference** (Web/Desktop/Electron/Mobile) for Naver Cloud Meeting
+* 🤖 **[agentic-sdlc](https://github.com/truongnat/agentic-sdlc)** — AI-powered From Spec to Production automation
+* 🎵 **[universal-music-downloader](https://github.com/truongnat/universal-music-downloader)** — SoundCloud downloader web app
 
 ---
 
@@ -36,8 +46,6 @@ With **5+ years of experience**, I have led engineering teams to deliver high-pe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongnat&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
 <div align="center">
   <i>"Focus on value, optimize for scale."</i>
 </div>
-
