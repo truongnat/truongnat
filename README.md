@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/truongdq)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:truongdq.dev@gmail.com)
 
-### 👨‍💻 Fullstack JS/TS Developer → Software Architect
+### 👨💻 Fullstack JS/TS Developer → Software Architect
 Based in **Hanoi, Vietnam** · Building scalable **Cross-platform Ecosystems** (Web, Mobile, Desktop)
 
 With **4+ years of experience**, I have led engineering teams delivering high-performance solutions for enterprise clients like **Viettel Group** and **Naver**. Currently on a **100-day journey to Software Architect** 🎯
@@ -14,7 +14,7 @@ With **4+ years of experience**, I have led engineering teams delivering high-pe
 ### 🎯 100 Days to Architect Challenge
 > Day-by-day learning: System Design · Clean Architecture · TypeScript Mastery · Leadership
 
-`#100DaysArchitect` · `#100DaysLeader` · Started March 2026
+![Day](https://img.shields.io/badge/Day-9%20of%20100-6366f1?style=flat-square) `#100DaysArchitect` · `#100DaysLeader` · Started March 2026
 
 ---
 
@@ -36,6 +36,7 @@ With **4+ years of experience**, I have led engineering teams delivering high-pe
 * ⚡ **50% API latency reduction** on high-traffic KPI Tracking Platform
 * 📱 **Cross-platform Video Conference** (Web/Desktop/Electron/Mobile) for Naver Cloud Meeting
 * 🤖 **[agentic-sdlc](https://github.com/truongnat/agentic-sdlc)** — AI-powered From Spec to Production automation
+* 📦 **[rnui](https://github.com/truongnat/rnui)** — High-performance dual-layer UI framework for React Native
 * 🎵 **[universal-music-downloader](https://github.com/truongnat/universal-music-downloader)** — SoundCloud downloader web app
 
 ---
